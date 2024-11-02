@@ -188,6 +188,6 @@ Program menampilkan pesan error dan kembali ke menu utama.
 
 ![gambar](screenshot2/latihan3.png)
 
-## Ini adalah hasil programnya:
+## Ini adalah hasil pemogramannya:
 
 ![gambar](screenshot2/hasil3.png)
