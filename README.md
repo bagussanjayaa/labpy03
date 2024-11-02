@@ -184,7 +184,7 @@ Jika pengguna memasukan pilihan yang tidak valid:
 
 Program menampilkan pesan error dan kembali ke menu utama.
 
-## Ini adalah code pemogramanannya:
+## Ini adalah code pemogramannya:
 
 ![gambar](screenshot2/latihan3.png)
 
